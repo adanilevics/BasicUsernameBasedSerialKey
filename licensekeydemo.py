@@ -1,7 +1,7 @@
 import hashlib
 import os
 
-database_path = r'amockdatabase.txt'
+database_path = r'mockdatabase.txt'
 #database_path = 'Licensing'
 #print(database_path+"\mockdatabase.txt")
 print("\nSign up")
