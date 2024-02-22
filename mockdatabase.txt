@@ -1,3 +1,1 @@
-s
-lol@gmail.com
-kl@gmail.com
+This will contain usernames which have previously signed up
